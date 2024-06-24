@@ -2,7 +2,7 @@
 This project is just a simple flashcard quiz app where you can pick a the category and the amount of the trivila questions you want built using ReactJS.
 
 ## Credits
-This project was created as a part of [Web Dev Simplified](https://courses.webdevsimplified.com/) curriculum. Special thanks to [Kyle Cook] for providing a tutorial and guidance on building this application. The video is posted by [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) on youtube [How To Build A Flashcard Quiz With React](https://www.youtube.com/watch?v=hEtZ040fsD8).
+This project was created as a part of [Web Dev Simplified](https://courses.webdevsimplified.com/) curriculum. Special thanks to Kyle Cook for providing a tutorial and guidance on building this application. The video is posted by [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) on youtube [How To Build A Flashcard Quiz With React](https://www.youtube.com/watch?v=hEtZ040fsD8).
 
 ## Notes
 If you try to follow the tutorial, you may face a problem using the API "Error 492 , Too many requests" and to solve this you just have to delete the useEffect function that starts right onload, then create the html form and make the submit button or "Generate" button is the action triggering the API fetching process.
